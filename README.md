@@ -144,6 +144,9 @@ pyserial>=3.5
 
 ---
 
+keyword
+arduino python led audio equalizer fft pyqt5 diy electronics music-visualizer vu-meter serial
+
 ## 📄 License
 
 MOHAMED OSAMA License — free to use, modify, and share.
