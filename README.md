@@ -55,6 +55,8 @@ Arduino Pin  →  220Ω Resistor  →  LED Anode (+, long leg)
 
 ## 🚀 Quick Start
 
+(unzip all files )
+
 ### 1. Flash the Arduino
 
 Open `arduino/audio_led_bar.ino` in **Arduino IDE** and upload it to your Uno.
