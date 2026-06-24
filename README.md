@@ -69,7 +69,8 @@ pip install -r python/requirements.txt
 
 ### 3. Run the GUI
 
-python python/AudioLEDBar.exe
+```bash
+python python/AudioLEDBar.py
 ```
 
 1. Select your **microphone** from the dropdown
@@ -86,6 +87,7 @@ audio-led-bar/
 │   └── audio_led_bar.ino      # Arduino sketch
 ├── python/
 │   ├── AudioLEDBar.exe        # Main Python application (PyQt5 GUI)
+|   ├── AudioLEDBar.py
 │   └── requirements.txt       # Python dependencies
 ├── docs/
 │   └── wiring_diagram.png     # (add your own wiring photo here)
