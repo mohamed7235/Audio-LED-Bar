@@ -35,6 +35,8 @@ A real-time audio-reactive LED bar built with **Arduino Uno** and a **Python GUI
 
 ---
 
+img for project.jpg
+
 ## 🔌 Wiring
 
 LEDs are connected in order from **A4 (lowest level)** to **pin 13 (peak)**:
