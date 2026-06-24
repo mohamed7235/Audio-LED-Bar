@@ -136,7 +136,7 @@ pyserial>=3.5
 
 ## 📄 License
 
-MIT License — free to use, modify, and share.
+MOHAMED OSAMA License — free to use, modify, and share.
 
 ---
 
