@@ -79,6 +79,10 @@ pip install -r python/requirements.txt
 python python/AudioLEDBar.py
 ```
 
+<div align="center">
+  <img src="gui app.png" alt="Audio LED Bar Screenshot" width="750"/>
+</div>
+
 1. Select your **microphone** from the dropdown
 2. Select the **Arduino COM port** (e.g. `COM5` on Windows, `/dev/ttyUSB0` on Linux)
 3. Click **▶ Start** — the equalizer and LEDs come alive!
