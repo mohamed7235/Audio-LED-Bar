@@ -35,7 +35,11 @@ A real-time audio-reactive LED bar built with **Arduino Uno** and a **Python GUI
 
 ---
 
-img for project.jpg
+
+<div align="center">
+  <img src="img for project.jpg" alt="Audio LED Bar Screenshot" width="750"/>
+</div>
+
 
 ## 🔌 Wiring
 
